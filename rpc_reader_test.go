@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/AaronO/go-git-http"
+	"github.com/go-online-public/go-git-http"
 )
 
 func TestRpcReader(t *testing.T) {
